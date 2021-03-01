@@ -4,9 +4,9 @@
 </p>
 
 ---
-✨ I'm a Information System's student at UFMG (Brazil) and a software development intern. I love programming and learn new things everyday! I’m currently working on a project with NodeJS, React and MongoDB.
+✨ I'm a Information System's student at UFMG (Brazil) and a junior software engineer. I love programming and learn new things everyday! I’m currently working on a project with NodeJS, React and MongoDB.
 
-My goal is to become a software engenieer and be able to do what I love everyday, spend time with my family and coding.
+My goal is to become a better software engenieer everyday and be able to do what I love most, spend time with my family and coding.
   
 - 📫 How to reach me: [lucas.dipaula9969@gmail.com](lucas.dipaula9969@gmail.com)
 
