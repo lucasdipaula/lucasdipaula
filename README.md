@@ -4,7 +4,7 @@
 </p>
 
 ---
-✨ I'm a Information System's student at UFMG (Brazil) and a junior software engineer. I love programming and learn new things everyday! I’m currently working on a project with NodeJS, React and MongoDB.
+✨ I'm a Information System's student at UFMG (Brazil) and a junior software engineer. I love programming and learn new things everyday! I’m currently working on projects with ReactJS, React Native and NextJS 🚀
 
 My goal is to become a better software engenieer everyday and be able to do what I love most, spend time with my family and coding.
   
