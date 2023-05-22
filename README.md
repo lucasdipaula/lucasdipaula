@@ -4,9 +4,9 @@
 </p>
 
 ---
-✨ I'm a Information System's student at UFMG (Brazil) and a junior software engineer. I love programming and learn new things everyday! I’m currently working on projects with ReactJS, React Native and NextJS 🚀
+✨ I'm a Software Developer at CI&T. I love programming and learn new things everyday! I’m currently working on projects with ReactJS! 🚀
 
-My goal is to become a better software engenieer everyday and be able to do what I love most, spend time with my family and coding.
+My goal is to become a better software developer everyday and be able to do what I love most, spend time with my family and coding.
   
 - 📫 How to reach me: [lucas.dipaula9969@gmail.com](lucas.dipaula9969@gmail.com)
 
